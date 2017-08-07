@@ -15,9 +15,10 @@ Projects:
 * uses for processed plastic 
 
 ## collaborators 
-* [re:3D team](https://re3d.org/about/)
+* [re:3D](https://re3d.org/about/)
 * Tech for Trade
 * Brenchies Lab
 
-<!-- An example of hidden comments
- This won't be visible except in "edit" mode. -->
+<!-- some exapmles on how to edit this :
+https://en.wikipedia.org/wiki/Help:Wiki_markup#Line_breaks
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
