@@ -9,6 +9,8 @@ This will not be focusing on one aspect of printing printing with trash but the 
 Projects:
 
 * Processing PET bottles
+  * cleaning
+  * shreading
 * drying pellets
 * screws for pellitized extrusion 
 * direct pellet printing 
@@ -21,4 +23,5 @@ Projects:
 
 <!-- some exapmles on how to edit this :
 https://en.wikipedia.org/wiki/Help:Wiki_markup#Line_breaks
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+https://guides.github.com/features/mastering-markdown/-->
